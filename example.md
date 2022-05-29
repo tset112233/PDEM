@@ -1,4 +1,4 @@
-<h3 align="center">Some example p, q, and g values</h3>
+<h3 align="center">Some example p, q, and g values (k = 2)</h3>
 <table >
     <tr>
         <td>$p$</td>
